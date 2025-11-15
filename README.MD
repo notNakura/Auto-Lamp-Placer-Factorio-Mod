@@ -1,11 +1,5 @@
 # Auto Lamp Placer - Factorio Mod
 
-![Factorio Logo](https://www.factorio.com/static/img/factorio-wheel.png)
-
-[Factorio Official Website](https://www.factorio.com/)
-
-![gif]
-
 ## Description
 
 This Factorio mod automates the placement of small lamps near electric poles during nighttime, making it easier to light up your base.
