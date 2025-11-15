@@ -1,0 +1,9 @@
+{
+  "name": "auto_lamps",
+  "version": "0.0.1",
+  "title": "Auto Lamps",
+  "author": "notNakura",
+  "factorio_version": "2.0.7",
+  "description": "Coloca faroles cerca de postes eléctricos automáticamente.",
+  "dependencies": ["base >= 2.0.0"]
+}
